@@ -1,0 +1,4 @@
+﻿  Main.cpp
+c:\users\c00213914\desktop\misslegame\misslegame\main.cpp(63): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+  MissleGame.vcxproj -> C:\Users\c00213914\Desktop\MissleGame\Debug\MissleGame.exe
+  MissleGame.vcxproj -> C:\Users\c00213914\Desktop\MissleGame\Debug\MissleGame.pdb (Partial PDB)
